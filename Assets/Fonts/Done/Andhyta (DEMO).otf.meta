@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4edc738f387a46e589e722bd7d4b15b2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Andhyta
+  fontNames:
+  - Andhyta
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4b40f4d612eec661a80867edf5067287, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

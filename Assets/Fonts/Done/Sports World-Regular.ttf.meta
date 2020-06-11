@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cf8db9d82279630fe88f98ce260dc6ad
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sports World
+  fontNames:
+  - Sports World
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a0994e6b3e6976148b2123c8bde352f1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

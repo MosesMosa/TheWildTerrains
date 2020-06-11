@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2c4d890edad3e9ce7ab9e396e27b1f44
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JMH Sherlock Dingbats
+  fontNames:
+  - JMH Sherlock Dingbats
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6b549e2631f678f77a42df2e1d7bc7b2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

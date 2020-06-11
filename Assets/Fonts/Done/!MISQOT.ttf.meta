@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 475a68bf5572a7fcc961e393a9787bba
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: '!MISQOT'
+  fontNames:
+  - '!MISQOT'
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4425eacb40570673cba756ddcede4753, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
